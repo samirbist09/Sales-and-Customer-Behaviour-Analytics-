@@ -127,8 +127,6 @@ Through this project, I learned:
 
 ---
 
-## 📸 Dashboard Preview
-
 
 
 
