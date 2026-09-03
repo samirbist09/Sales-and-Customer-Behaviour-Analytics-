@@ -82,6 +82,11 @@ After cleaning and merging:
 * Delivery Time Analysis
 * Interactive Filters
 
+<img width="1866" height="873" alt="Screenshot 2026-06-22 183329" src="https://github.com/user-attachments/assets/9404e784-e8fd-44a3-b8eb-ae219d0b0c5d" />
+<img width="1353" height="745" alt="Screenshot 2026-06-22 183346" src="https://github.com/user-attachments/assets/f7c8c619-da26-4137-9a2b-f03d2ff69f3a" />
+<img width="1422" height="870" alt="Screenshot 2026-06-22 183336" src="https://github.com/user-attachments/assets/7b6b9405-d831-436d-86e2-8f8de6b2c73b" />
+
+
 ---
 
 ## ▶️ Run the Project
